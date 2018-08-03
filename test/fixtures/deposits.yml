@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  operation_date: 2018-08-01 23:33:47
+  from_user_id: 1
+  to_hajji_id: 1
+  amount: 1.5
+
+two:
+  operation_date: 2018-08-01 23:33:47
+  from_user_id: 1
+  to_hajji_id: 1
+  amount: 1.5
